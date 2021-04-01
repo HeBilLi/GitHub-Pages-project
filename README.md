@@ -11,6 +11,6 @@
 
 ## Branches
 
-- Main branch. It will contain screenshots folder with out screenshots. It will contain a readme with my github.io web page link and github.io reposistory link
+- Main branch. It will contain screenshots folder with screenshots. It will contain a readme with my github.io web page link and github.io reposistory link
 - add-read-me. It will contain Part2-command version readme
 - update-readme-version2(another branch created in vscode ui). It will contain Part2-vscode version readme and .gitignore
