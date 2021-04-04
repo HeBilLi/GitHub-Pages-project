@@ -1,2 +1,2 @@
 # Beilei He's User Page
-My favorate programming language is C++
+My favorate programming language is JAVA
